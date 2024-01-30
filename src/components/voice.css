@@ -1,0 +1,16 @@
+.convo-div {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80vh;
+}
+
+.input-div {
+    height: 20vh;
+}
+
+.user-message {
+    background-color: lightgray;
+}
+
+.assistant-message {
+    background-color: gainsboro;
+}
